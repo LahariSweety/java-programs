@@ -12,6 +12,7 @@ public class TreeSetCustomer {
 		ts.add(new Customer(4,"lahari",20));
 		ts.add(new Customer(8,"mahesh",28));
 		ts.add(new Customer(4,"kranthi",30));
+	
 		ts.add(new Customer(2,"kranthi",31));
 		
 		System.out.println(ts);

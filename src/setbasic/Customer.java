@@ -8,7 +8,6 @@ public class Customer implements Comparable<Customer>{
 	
 	
 	public Customer(Integer accNo, String name, Integer age) {
-		super();
 		this.accNo = accNo;
 		this.name = name;
 		this.age = age;
